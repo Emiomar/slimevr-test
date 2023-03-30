@@ -19,7 +19,7 @@
 
 
 ## Soporte
-### Discord
+### DiscordS
 ## YT
 ### [VIDEO EXPLICATIVO](https://www.youtube.com/watch?v=mCdA4bJAGGk&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXB9)
 
