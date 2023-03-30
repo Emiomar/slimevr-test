@@ -1,3 +1,5 @@
+
+theme: minima
 # slimevr-test
 # Bienvenido a la documentación para crear tus propios SlimesVR
 
