@@ -30,6 +30,12 @@ alt=" imagen de una case"
      
 
 3. Case Auxiliar
+  
+  <img src = "https://user-images.githubusercontent.com/60834536/234994220-22c62992-5371-4b0e-b0f9-8c862ec097e9.png"
+     width = "300"
+     height = "200"
+     >
+  
 
 Configuraciones importantes del slicer
 Recomendamos el uso de Cura Slicer
@@ -60,8 +66,6 @@ alt=" imageN de una Batería 1200 mAh 103040 Li-Po"
  height="200">
  </li>
 
-
-
 <li><h4><b>Regulador/cargador TP4056 USB</b></h4>
 <img src="https://user-images.githubusercontent.com/62313075/236876058-3e7563b0-a321-44ca-a621-c7e8c3370d9c.png"
 alt=" imagen de una wimu"
@@ -90,14 +94,30 @@ alt=" imagen de una wimu"
  height="100">
  </li>
 </details>
+  
+<details><summary><h4> Ensamble </h4></summary>   
+ <p> 
+  Para el ensamble sigue el siguiente esquemático </p>   
+ <img src = "https://github.com/Emiomar/slimevr-test/assets/62313075/260f0dbd-9d82-4b9d-b257-bb130f102aab"
+          width = "550"
+          height = "450">
+           
+ </details>
+  
+
+ <details><summary><h4> Conexiones 🔗 </h4></summary></details>
+
+ </details>  
+   
  </details>
  
 
-<details><summary><h3> Conexiones 🔗 </h3></summary></details>
 
- </details>
  
-  <h2> Software  💻 </h2>
+ <details><summary> <h2> Software  💻 </h2><summary>
+  </details>
+  
+  
 </details>
  
  
