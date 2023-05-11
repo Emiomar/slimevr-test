@@ -8,10 +8,13 @@
  <details> <summary><h2>Hardware</h2></summary> 
 
  <details><summary> <h3> Impresión 3D 🕹️</h3> </summary>
- Ve a la sección de <a  href = "https://github.com/Emiomar/slimevr-test/tree/main/Archivos-STL" target = "_blank"> archivos </a>  para que descargues los  STL´s necesarios
+<p> Ve a la sección de <a  href = "https://github.com/Emiomar/slimevr-test/tree/main/Archivos-STL" target = "_blank"> archivos </a>  para que descargues los  STL´s necesarios.</p>
 
-Para las impresiones se utilizaran los modelos de [Hyperion](https://github.com/Smeltie/Hyperion)
+<p>
+ Para las impresiones se utilizaran los modelos de <a href = "https://github.com/Smeltie/Hyperion"> Hyperion </a></p>
+  
 1. Case
+  
 <img src="https://user-images.githubusercontent.com/60834536/234993755-d4daac95-1425-42dc-a3f0-3d50d3ea4d1e.png"
 alt=" imagen de una case"
  width="300"
@@ -20,7 +23,11 @@ alt=" imagen de una case"
 
 2. Base
 
-![image](https://user-images.githubusercontent.com/60834536/234994220-22c62992-5371-4b0e-b0f9-8c862ec097e9.png)
+<img src = "https://user-images.githubusercontent.com/60834536/234994220-22c62992-5371-4b0e-b0f9-8c862ec097e9.png"
+     width = "300"
+     height = "200"
+     >
+     
 
 3. Case Auxiliar
 
