@@ -8,7 +8,7 @@
  <details> <summary><h2>Hardware</h2></summary> 
 
  <details><summary> <h3> Impresión 3D 🕹️</h3> </summary>
- Ve a la sección de <a target = "_blank" href = "https://github.com/Emiomar/slimevr-test/tree/main/Archivos-STL"> archivos </a>  para que descargues los  STL´s necesarios
+ Ve a la sección de <a target = "_self" href = "https://github.com/Emiomar/slimevr-test/tree/main/Archivos-STL"> archivos </a>  para que descargues los  STL´s necesarios
 
 Para las impresiones se utilizaran los modelos de [Hyperion](https://github.com/Smeltie/Hyperion)
 1. Case
