@@ -5,10 +5,10 @@
 -->
  <details><summary><h1> Recursos  ⚙️ </h1></summary>
 
-<h2>Hardware</h2> 
+ <details> <summary><h2>Hardware</h2></summary> 
 
- <h3> Impresión 3D 🕹️</h3>
-##### Archivos STL
+ <details><summary> <h3> Impresión 3D 🕹️</h3> </summary>
+ Ve a la sección de <a target = _blank href = "https://github.com/Emiomar/slimevr-test/tree/main/Archivos-STL"> archivos </a>  para que descargues los  STL´s necesarios
 
 Para las impresiones se utilizaran los modelos de [Hyperion](https://github.com/Smeltie/Hyperion)
 1. Case
@@ -24,12 +24,13 @@ alt=" imagen de una case"
 
 3. Case Auxiliar
 
-##### Configuraciones importantes del slicer
+Configuraciones importantes del slicer
 Recomendamos el uso de Cura Slicer
+ </details> 
 
-<h3>Electrónicos 🔌</h3>
+ <details><summary><h3>  Electrónicos 🔌 </h3></summary>
 
-<details><summary><h4>Materiales</h4></summary>
+<details><summary><h4> Materiales </h4></summary>
 
  <li><h4><b> WEMOS D1 Mini</b></h2>
 <img src="https://user-images.githubusercontent.com/62313075/236332924-5d2852d8-3d6b-4ea0-be2d-2b98aa4471de.png"
@@ -82,14 +83,21 @@ alt=" imagen de una wimu"
  height="100">
  </li>
 </details>
+ </details>
+ 
 
-<details><summary><h2> Conexiones 🔗 </h2></summary></details>
-<h2> Software  💻 </h2>
+<details><summary><h3> Conexiones 🔗 </h3></summary></details>
+
+ </details>
+ 
+  <h2> Software  💻 </h2>
 </details>
+ 
+ 
 
 <details><summary><h1> Soporte </h1></summary>
  <h2> Discord </h2>
-#### A continuación te mostraremos como puedes resolver problemas que puedas tener y no se encuentren ya resueltos en esta wiki
+  A continuación te mostraremos como puedes resolver problemas que puedas tener y no se encuentren ya resueltos en esta wiki
   Dirigete al <a target= _blank href = "https://discord.gg/slimevr"> Discord </a> de la comunidad de slimevr
 * Del lado izquierdo encontraras diferentes canales, despliega el apartado de Support donde encontrarás el canal de support-forum
 
@@ -97,7 +105,7 @@ Aquí podras buscar con palabras clave problemas que otros usuarios han tenido y
  
 ![support-forum](https://user-images.githubusercontent.com/62313075/230942139-8632b69b-0c6e-410a-8c94-abc73c727439.png)
 
-### YT
-### [VIDEO EXPLICATIVO](https://www.youtube.com/watch?v=mCdA4bJAGGk&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXB9)
+ YT
+ [VIDEO EXPLICATIVO](https://www.youtube.com/watch?v=mCdA4bJAGGk&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXB9)
 </details>
 
