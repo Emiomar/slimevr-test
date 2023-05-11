@@ -8,7 +8,7 @@
  <details> <summary><h2>Hardware</h2></summary> 
 
  <details><summary> <h3> Impresión 3D 🕹️</h3> </summary>
- Ve a la sección de <a target = _blank href = "https://github.com/Emiomar/slimevr-test/tree/main/Archivos-STL"> archivos </a>  para que descargues los  STL´s necesarios
+ Ve a la sección de <a target = "_blank" href = "https://github.com/Emiomar/slimevr-test/tree/main/Archivos-STL"> archivos </a>  para que descargues los  STL´s necesarios
 
 Para las impresiones se utilizaran los modelos de [Hyperion](https://github.com/Smeltie/Hyperion)
 1. Case
@@ -98,7 +98,7 @@ alt=" imagen de una wimu"
 <details><summary><h1> Soporte </h1></summary>
  <h2> Discord </h2>
   A continuación te mostraremos como puedes resolver problemas que puedas tener y no se encuentren ya resueltos en esta wiki
-  Dirigete al <a target= _blank href = "https://discord.gg/slimevr"> Discord </a> de la comunidad de slimevr
+  Dirigete al <a target= "_blank" href = "https://discord.gg/slimevr"> Discord </a> de la comunidad de slimevr
 * Del lado izquierdo encontraras diferentes canales, despliega el apartado de Support donde encontrarás el canal de support-forum
 
 Aquí podras buscar con palabras clave problemas que otros usuarios han tenido y como los resolvieron o en su caso, crear una nueva publicación en donde la comunidad se encargará en darte soluciones, por lo que es muy importante que brindes la mayor cantidad de detalles posibles.
