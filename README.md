@@ -115,9 +115,9 @@ alt=" imagen de una wimu"
 
  
  <details><summary> <h2> Software  💻 </h2><summary>
-  </details>
-  
-  
+<video src="https://github.com/Emiomar/slimevr-test/assets/62313075/e330869c-f0cd-4b72-8848-2825cd438bc2" width="300"  height="200" autoplay = "0" ></video>
+ </details>
+ 
 </details>
  
  
