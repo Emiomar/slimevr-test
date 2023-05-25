@@ -1,3 +1,6 @@
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+
+
 <h1>Bienvenido a la documentación para crear tus propios SlimesVR</h1>
 <h1><b>Vista general del proceso</b></h1>
 
@@ -97,18 +100,18 @@ alt=" imagen de una wimu"
   
 <details><summary><h4> Ensamble </h4></summary>   
  <p> 
-  Para el ensamble sigue el siguiente esquemático </p>   
+  Para el ensamble sin IMU auxiliar sigue el siguiente esquemático </p>   
  <img src = "https://github.com/Emiomar/slimevr-test/assets/62313075/260f0dbd-9d82-4b9d-b257-bb130f102aab"
           width = "550"
           height = "450">
-           
+ <p>
+   Para el ensamble con IMU auxiliar sigue el siguiente esquemático </p> 
+           <img src = "https://github.com/Emiomar/slimevr-test/assets/62313075/d1135bf2-2741-4de5-a4ef-d0d7b64a6ebe"
+          width = "550"
+          height = "450">
  </details>
   
-
- <details><summary><h4> Conexiones 🔗 </h4></summary></details>
-
- </details>  
-   
+  </details>
  </details>
  
 
