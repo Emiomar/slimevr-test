@@ -1,5 +1,3 @@
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
-
 
 <h1>Bienvenido a la documentación para crear tus propios SlimesVR</h1>
 <h1><b>Vista general del proceso</b></h1>
@@ -22,7 +20,9 @@
 alt=" imagen de una case"
  width="300"
  height="200">
-
+> Text
+  knkm
+  nknk
 
 2. Base
 
