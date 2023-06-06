@@ -49,14 +49,14 @@ Recomendamos el uso de Cura Slicer
 <details><summary><h4> Materiales </h4></summary>
 
  <li><h4><b> WEMOS D1 Mini</b></h2>
-<img src="https://user-images.githubusercontent.com/62313075/236332924-5d2852d8-3d6b-4ea0-be2d-2b98aa4471de.png"
-alt=" imagen de una wimu"
- width="200"
- height="300">
- </li>
+ <img src="https://user-images.githubusercontent.com/62313075/236332924-5d2852d8-3d6b-4ea0-be2d-2b98aa4471de.png"
+   alt=" imagen de una wimu"
+   width="200"
+   height="300">
+   </li>
 
 <li><h4><b> IMU MPU 6050 </b></h3>
-<p><img src="https://user-images.githubusercontent.com/62313075/236874588-8756f33b-a4f8-44dc-8dd9-c1fa974b7fd7.png"
+<img src="https://user-images.githubusercontent.com/62313075/236874588-8756f33b-a4f8-44dc-8dd9-c1fa974b7fd7.png"
 alt=" imagen de un IMU MPU6 050"
 width="200"
 height="250">
@@ -72,7 +72,7 @@ alt=" imageN de una Batería 1200 mAh 103040 Li-Po"
 <li><h4><b>Regulador/cargador TP4056 USB</b></h4>
 <img src="https://user-images.githubusercontent.com/62313075/236876058-3e7563b0-a321-44ca-a621-c7e8c3370d9c.png"
 alt=" imagen de una wimu"
- width="200"
+ width="150"
  height="250">
  </li>
 
@@ -96,6 +96,7 @@ alt=" imagen de una wimu"
  width="150"
  height="100">
  </li>
+ 
 </details>
   
 <details><summary><h4> Ensamble </h4></summary>   
@@ -142,4 +143,10 @@ Aquí podras buscar con palabras clave problemas que otros usuarios han tenido y
  YT
  [VIDEO EXPLICATIVO](https://www.youtube.com/watch?v=mCdA4bJAGGk&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXB9)
 </details>
+
+
+<details><summary><h1> Resultados </h1></summary>
+ <video src = "https://github.com/Emiomar/slimevr-test/assets/62313075/e2b75b08-410b-4390-89a7-dac09037857f"
+width = "300" height = "200"        autoplay = "0" > </video>
+ </details>
 
