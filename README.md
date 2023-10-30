@@ -3,6 +3,7 @@
 <p> Esta documentación está creada por alumnos de la Facultad de Ingeniería.</p>
 <p>Basados en la documentación oficial de <a href="https://docs.slimevr.dev/">SlimeVR</a>.</p>
 
+<h2> Dirígete a la Wiki para comenzar</h2>
 
 <h2> Recomendaciones </h2>
  Empezar en el siguiente orden:
